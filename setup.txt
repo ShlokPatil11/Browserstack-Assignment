@@ -1,0 +1,36 @@
+
+Here are the steps to run the project.
+
+1. Setup Environment
+(You only need to do this once)
+
+bash
+cd browserstack-el-pais
+python -m venv venv
+# Activate the virtual environment:
+# Windows:
+venv\Scripts\activate
+# Mac/Linux:
+# source venv/bin/activate
+pip install -r requirements.txt
+2. Run Locally (No Credentials Required)
+This will scrape El País, translate titles, analyze text, and download images.
+
+bash
+python main.py
+Results:
+
+Report: Open results.json to see all data.
+Images: Check the images/ folder.
+Console: Summary is printed to the terminal.
+3. Run on BrowserStack (Credentials Required)
+This runs the cross-browser tests.
+
+Open config.py.
+Replace "your_username" and "your_access_key" with your BrowserStack credentials.
+Run the runner:
+bash
+python browserstack_runner.py
+Results:
+
+Check your BrowserStack Automate Dashboard to see the 5 parallel sessions.

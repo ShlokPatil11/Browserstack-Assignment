@@ -1,0 +1,35 @@
+{
+    "articles": [
+        {
+            "original_title": "Cerrar la brecha educativa",
+            "translated_title": "Closing the educational gap",
+            "content_snippet": "Hay que poner los medios para que el éxito de España en la caída del abandono escolar alcance a los alumnos extranjeros Cada vez menos jóvenes españoles abandonan sus estudios sin concluirlos, el prin",
+            "image_filename": "article_1.jpg"
+        },
+        {
+            "original_title": "Las amenazas electorales de Trump",
+            "translated_title": "Trump's electoral threats",
+            "content_snippet": "El presidente cuestiona con bulos la limpieza de los comicios de noviembre ante la perspectiva de una derrota Faltan algo más de ocho meses para las elecciones legislativas de medio mandato en Estados",
+            "image_filename": "article_2.jpg"
+        },
+        {
+            "original_title": "Me ha escrito un hombre rico, el dueño de Telegram",
+            "translated_title": "A rich man, the owner of Telegram, wrote to me",
+            "content_snippet": "",
+            "image_filename": "article_3.jpg"
+        },
+        {
+            "original_title": "Toda esta libertad que no querría perder",
+            "translated_title": "All this freedom that I wouldn't want to lose",
+            "content_snippet": "El velo islámico no es un derecho individual; es la parte visible de una política sexual que pretende anular nuestra condición de sujetos deseantes Será solo un fantasma el que me persigue: el de la p",
+            "image_filename": "article_4.jpg"
+        },
+        {
+            "original_title": "‘Moteras iraníes’",
+            "translated_title": "'Iranian bikers'",
+            "content_snippet": "",
+            "image_filename": "article_5.jpg"
+        }
+    ],
+    "repeated_words": {}
+}
