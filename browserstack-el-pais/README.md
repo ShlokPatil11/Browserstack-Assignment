@@ -1,4 +1,4 @@
-# BrowserStack El País Automation
+# BrowserStack Assignment
 
 This project is an assignment scrapes the El País Opinion section, translates article titles, performs word frequency analysis, and runs cross-browser tests using BrowserStack.
 
